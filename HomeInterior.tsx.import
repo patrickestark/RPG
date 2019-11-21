@@ -1,0 +1,20 @@
+[remap]
+
+importer="vnen.tiled_tileset_importer"
+type="TileSet"
+path="res://.import/HomeInterior.tsx-0929b8b6442ce68f999738ab744a3773.res"
+
+[deps]
+
+source_file="res://HomeInterior.tsx"
+dest_files=[ "res://.import/HomeInterior.tsx-0929b8b6442ce68f999738ab744a3773.res" ]
+
+[params]
+
+custom_properties=true
+tile_metadata=false
+image_flags=7
+embed_internal_images=false
+save_tiled_properties=false
+apply_offset=false
+post_import_script=""
